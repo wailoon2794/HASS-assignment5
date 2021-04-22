@@ -1,0 +1,271 @@
+[
+    {
+      "name": "Total Expenditure of Singapore 2021($ million)",
+      "fill": "#64b5f6",
+      "total_expenditure": "102338",
+      "children": [
+        {
+        "name": "Operating Expenditure",
+        "id": "Operating",
+        "fill": "#63c6c1",
+        "total_expenditure": "82465",
+        "children": [
+          {
+            "name": "Social Developement",
+            "id": "Social",
+            "total_expenditure": "44516",
+            "Children": [
+                {
+                    "name": "Education",
+                    "sector" : "Social",
+                    "total_expenditure": "13090"
+                },
+                {
+                    "name": "National Development",
+                    "sector" : "Social",
+                    "total_expenditure": "4149"
+                },
+                {
+                    "name": "Health",
+                    "sector" : "Social",
+                    "total_expenditure": "17355"
+                },
+                {
+                    "name": "Sustainability and the Environment",
+                    "sector" : "Social",
+                    "total_expenditure": "1849"
+                },
+                {
+                    "name": "Culture,Community and Youth",
+                    "sector" : "Social",
+                    "total_expenditure": "1914"
+                },
+                {
+                    "name": "Social and Family Development",
+                    "sector" : "Social",
+                    "total_expenditure": "4014"
+                },
+                {
+                    "name": "Communications and Information",
+                    "sector" : "Social",
+                    "total_expenditure": "590"
+                },
+                {
+                    "name": "Manpower (Financial Security)",
+                    "sector" : "Social",
+                    "total_expenditure": "1556"
+                }
+            ]
+          },
+          {
+            "name": "Security and External Relations",
+            "id": "Security",
+            "total_expenditure": "21768",
+            "Children": [
+                {
+                    "name": "Defence",
+                    "sector" : "Security",
+                    "total_expenditure": "14803"
+                },
+                {
+                    "name": "Home Affairs",
+                    "sector" : "Security",
+                    "total_expenditure": "6544"
+                },
+                {
+                    "name": "Foreign Affairs",
+                    "sector" : "Security",
+                    "total_expenditure": "421"
+                }
+            ]
+          },
+          {
+            "name": "Economic Development",
+            "id": "Economic",
+            "total_expenditure": "12413",
+            "Children": [
+                {
+                    "name": "Transport",
+                    "sector" : "Economic",
+                    "total_expenditure": "4051"
+                },
+                {
+                    "name": "Trade and Industry",
+                    "sector" : "Economic",
+                    "total_expenditure": "2052"
+                },
+                {
+                    "name": "Manpower (excluding Financial Security)",
+                    "sector" : "Economic",
+                    "total_expenditure": "5519"
+                },
+                {
+                    "name": "Info-Communications and Media Development",
+                    "sector" : "Economic",
+                    "total_expenditure": "790"
+                }
+            ]
+          },
+          {
+            "name": "Government Administration",
+            "id": "Admin",
+            "total_expenditure": "3768",
+            "Children": [
+                {
+                    "name": "Finance",
+                    "sector" : "Admin",
+                    "total_expenditure": "1928"
+                },
+                {
+                    "name": "Law",
+                    "sector" : "Admin",
+                    "total_expenditure": "261"
+                },
+                {
+                    "name": "Organs of State",
+                    "sector" : "Admin",
+                    "total_expenditure": "607"
+                },
+                {
+                    "name": "Prime Minister's Office",
+                    "sector" : "Admin",
+                    "total_expenditure": "973"
+                }
+            ]
+          }
+        ]
+        },
+        {
+            "name": "Development Expenditure",
+            "id": "Development",
+            "fill": "#63c6c1",
+            "total_expenditure": "19873",
+            "children": [
+              {
+                "name": "Social Developement",
+                "id": "Social",
+                "total_expenditure": "4956",
+                "Children": [
+                    {
+                        "name": "Education",
+                        "sector" : "Social",
+                        "total_expenditure": "530"
+                    },
+                    {
+                        "name": "National Development",
+                        "sector" : "Social",
+                        "total_expenditure": "1380"
+                    },
+                    {
+                        "name": "Health",
+                        "sector" : "Social",
+                        "total_expenditure": "1490"
+                    },
+                    {
+                        "name": "Sustainability and the Environment",
+                        "sector" : "Social",
+                        "total_expenditure": "1055"
+                    },
+                    {
+                        "name": "Culture,Community and Youth",
+                        "sector" : "Social",
+                        "total_expenditure": "358"
+                    },
+                    {
+                        "name": "Social and Family Development",
+                        "sector" : "Social",
+                        "total_expenditure": "99"
+                    },
+                    {
+                        "name": "Communications and Information",
+                        "sector" : "Social",
+                        "total_expenditure": "39"
+                    },
+                    {
+                        "name": "Manpower (Financial Security)",
+                        "sector" : "Social",
+                        "total_expenditure": "4"
+                    }
+                ]
+              },
+              {
+                "name": "Security and External Relations",
+                "id": "Security",
+                "total_expenditure": "1902",
+                "Children": [
+                    {
+                        "name": "Defence",
+                        "sector" : "Security",
+                        "total_expenditure": "558"
+                    },
+                    {
+                        "name": "Home Affairs",
+                        "sector" : "Security",
+                        "total_expenditure": "1332"
+                    },
+                    {
+                        "name": "Foreign Affairs",
+                        "sector" : "Security",
+                        "total_expenditure": "13"
+                    }
+                ]
+              },
+              {
+                "name": "Economic Development",
+                "id": "Economic",
+                "total_expenditure": "12258",
+                "Children": [
+                    {
+                        "name": "Transport",
+                        "sector" : "Economic",
+                        "total_expenditure": "7015"
+                    },
+                    {
+                        "name": "Trade and Industry",
+                        "sector" : "Economic",
+                        "total_expenditure": "5123"
+                    },
+                    {
+                        "name": "Manpower (excluding Financial Security)",
+                        "sector" : "Economic",
+                        "total_expenditure": "98"
+                    },
+                    {
+                        "name": "Info-Communications and Media Development",
+                        "sector" : "Economic",
+                        "total_expenditure": "22"
+                    }
+                ]
+              },
+              {
+                "name": "Government Administration",
+                "id": "Admin",
+                "total_expenditure": "757",
+                "Children": [
+                    {
+                        "name": "Finance",
+                        "sector" : "Admin",
+                        "total_expenditure": "140"
+                    },
+                    {
+                        "name": "Law",
+                        "sector" : "Admin",
+                        "total_expenditure": "220"
+                    },
+                    {
+                        "name": "Organs of State",
+                        "sector" : "Admin",
+                        "total_expenditure": "104"
+                    },
+                    {
+                        "name": "Prime Minister's Office",
+                        "sector" : "Admin",
+                        "total_expenditure": "293"
+                    }
+                ]
+              }
+            ]
+        }
+      ]
+    }
+  ]

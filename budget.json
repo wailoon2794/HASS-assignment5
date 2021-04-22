@@ -1,18 +1,19 @@
 [
     {
       "name": "Total Expenditure of Singapore 2021($ million)",
-      "fill": "#64b5f6",
+      "fill": "#05e63d",
       "total_expenditure": "102338",
       "children": [
         {
         "name": "Operating Expenditure",
         "id": "Operating",
-        "fill": "#63c6c1",
+        "fill": "#ed5e3e",
         "total_expenditure": "82465",
         "children": [
           {
             "name": "Social Developement",
             "id": "Social",
+            "fill": "#fff705",
             "total_expenditure": "44516",
             "Children": [
                 {
@@ -60,6 +61,7 @@
           {
             "name": "Security and External Relations",
             "id": "Security",
+            "fill": "#a805ff",
             "total_expenditure": "21768",
             "Children": [
                 {
@@ -82,6 +84,7 @@
           {
             "name": "Economic Development",
             "id": "Economic",
+            "fill": "#f005e8",
             "total_expenditure": "12413",
             "Children": [
                 {
@@ -109,6 +112,7 @@
           {
             "name": "Government Administration",
             "id": "Admin",
+            "fill": "#d10277",
             "total_expenditure": "3768",
             "Children": [
                 {
@@ -144,6 +148,7 @@
               {
                 "name": "Social Developement",
                 "id": "Social",
+                "fill": "#fff705",
                 "total_expenditure": "4956",
                 "Children": [
                     {
@@ -191,6 +196,7 @@
               {
                 "name": "Security and External Relations",
                 "id": "Security",
+                "fill": "#a805ff",
                 "total_expenditure": "1902",
                 "Children": [
                     {
@@ -213,6 +219,7 @@
               {
                 "name": "Economic Development",
                 "id": "Economic",
+                "fill": "#f005e8",
                 "total_expenditure": "12258",
                 "Children": [
                     {
@@ -240,6 +247,7 @@
               {
                 "name": "Government Administration",
                 "id": "Admin",
+                "fill": "#d10277",
                 "total_expenditure": "757",
                 "Children": [
                     {

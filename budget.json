@@ -1,6 +1,6 @@
 [
     {
-      "name": "Total Expenditure of Singapore 2021($ million)",
+      "name": "Total Expenditure of Singapore 2021($ million)", value: "102338",
       "children": [
         {"name": "Operating Expenditure",
         "children": [

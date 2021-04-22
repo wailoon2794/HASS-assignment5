@@ -1,0 +1,212 @@
+[
+    {
+      "name": "World",
+      "fill": "#64b5f6",
+      "total_deaths": "1397672",
+      "children": [
+        {
+        "name": "Asia",
+        "id": "Asia",
+        "fill": "#63c6c1",
+        "total_deaths": "280486",
+        "children": [
+          {
+            "iso_code": "AFG",
+            "continent": "Asia",
+            "name": "Afghanistan",
+            "date": "24-11-20",
+            "value": "45017",
+            "new_cases": "246",
+            "total_deaths": "1712",
+            "new_deaths": "17",
+            "total_cases_per_million": "1156.407",
+            "new_cases_per_million": "6.319",
+            "total_deaths_per_million": "43.978",
+            "new_deaths_per_million": "0.437"
+          },
+          {
+            "iso_code": "SGP",
+            "continent": "Asia",
+            "name": "Singapore",
+            "date": "24-11-20",
+            "value": "58165",
+            "new_cases": "5",
+            "total_deaths": "28",
+            "new_deaths": "0",
+            "total_cases_per_million": "9942.152",
+            "new_cases_per_million": "0.855",
+            "total_deaths_per_million": "4.786",
+            "new_deaths_per_million": "0"
+          }
+        ]
+        },
+        {
+          "name": "Europe",
+          "id": "Europe",
+          "fill": "#adc965",
+          "total_deaths": "294523",
+          "children": [
+            {
+              "iso_code": "ALB",
+              "continent": "Europe",
+              "name": "Albania",
+              "date": "24-11-20",
+              "value": "33556",
+              "new_cases": "795",
+              "total_deaths": "716",
+              "new_deaths": "17",
+              "total_cases_per_million": "11660.296",
+              "new_cases_per_million": "276.253",
+              "total_deaths_per_million": "248.801",
+              "new_deaths_per_million": "5.907"
+            }
+          ]
+        },
+        {
+          "name": "Africa",
+          "id": "Africa",
+          "fill": "#FBAF0A",
+          "total_deaths": "49986",
+          "children": [
+            {
+              "iso_code": "DZA",
+              "continent": "Africa",
+              "name": "Algeria",
+              "date": "24-11-20",
+              "value": "75867",
+              "new_cases": "1005",
+              "total_deaths": "2294",
+              "new_deaths": "19",
+              "total_cases_per_million": "1730.107",
+              "new_cases_per_million": "22.918",
+              "total_deaths_per_million": "52.313",
+              "new_deaths_per_million": "0.433"
+            },
+            {
+              "iso_code": "ZWE",
+              "continent": "Africa",
+              "name": "Zimbabwe",
+              "date": "24-11-20",
+              "value": "9308",
+              "new_cases": "88",
+              "total_deaths": "273",
+              "new_deaths": "5",
+              "total_cases_per_million": "626.256",
+              "new_cases_per_million": "5.921",
+              "total_deaths_per_million": "18.368",
+              "new_deaths_per_million": "0.336"
+            }
+          ]
+        },
+        {
+          "name": "North America",
+          "id": "North America",
+          "fill": "#e25b45",
+          "total_deaths": "388433",
+          "children": [
+            {
+              "iso_code": "USA",
+              "continent": "North America",
+              "name": "United States",
+              "date": "24-11-20",
+              "value": "12420872",
+              "new_cases": "173963",
+              "total_deaths": "257701",
+              "new_deaths": "919",
+              "total_cases_per_million": "37524.993",
+              "new_cases_per_million": "525.564",
+              "total_deaths_per_million": "778.547",
+              "new_deaths_per_million": "2.776"
+            },
+            {
+              "iso_code": "VIR",
+              "continent": "North America",
+              "name": "United States Virgin Islands",
+              "date": "24-11-20",
+              "value": "1507",
+              "new_cases": "3",
+              "total_deaths": "23",
+              "new_deaths": "0",
+              "total_cases_per_million": "14431.687",
+              "new_cases_per_million": "28.729",
+              "total_deaths_per_million": "220.258",
+              "new_deaths_per_million": "0"
+            }
+          ]
+        },
+        {
+          "name": "South America",
+          "id": "South America",
+          "fill": "#7C79A2",
+          "total_deaths": "317833",
+          "children": [
+            {
+              "iso_code": "ARG",
+              "continent": "South America",
+              "name": "Argentina",
+              "date": "24-11-20",
+              "value": "1374348",
+              "new_cases": "3998",
+              "total_deaths": "37122",
+              "new_deaths": "120",
+              "total_cases_per_million": "30408.77",
+              "new_cases_per_million": "88.46",
+              "total_deaths_per_million": "821.36",
+              "new_deaths_per_million": "2.655"
+            },
+            
+            {
+              "iso_code": "SUR",
+              "continent": "South America",
+              "name": "Suriname",
+              "date": "24-11-20",
+              "value": "5297",
+              "new_cases": "1",
+              "total_deaths": "116",
+              "new_deaths": "0",
+              "total_cases_per_million": "9029.48",
+              "new_cases_per_million": "1.705",
+              "total_deaths_per_million": "197.738",
+              "new_deaths_per_million": "0"
+            }
+          ]
+        },
+        {
+          "name": "Oceania",
+          "id": "Oceania",
+          "fill": "#FFC1A6",
+          "total_deaths": "1112",
+          "children": [
+            {
+              "iso_code": "AUS",
+              "continent": "Oceania",
+              "name": "Australia",
+              "date": "24-11-20",
+              "value": "27835",
+              "new_cases": "14",
+              "total_deaths": "907",
+              "new_deaths": "0",
+              "total_cases_per_million": "1091.574",
+              "new_cases_per_million": "0.549",
+              "total_deaths_per_million": "35.569",
+              "new_deaths_per_million": "0"
+            },
+            {
+              "iso_code": "WLF",
+              "continent": "Oceania",
+              "name": "Wallis and Futuna",
+              "date": "24-11-20",
+              "value": "2",
+              "new_cases": "0",
+              "total_deaths": "",
+              "new_deaths": "0",
+              "total_cases_per_million": "177.841",
+              "new_cases_per_million": "0",
+              "total_deaths_per_million": "",
+              "new_deaths_per_million": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ]

@@ -19,42 +19,42 @@
                 {
                     "name": "Education",
                     "sector" : "Social",
-                    "total_expenditure": "13090"
+                    "value": "13090"
                 },
                 {
                     "name": "National Development",
                     "sector" : "Social",
-                    "total_expenditure": "4149"
+                    "value": "4149"
                 },
                 {
                     "name": "Health",
                     "sector" : "Social",
-                    "total_expenditure": "17355"
+                    "value": "17355"
                 },
                 {
                     "name": "Sustainability and the Environment",
                     "sector" : "Social",
-                    "total_expenditure": "1849"
+                    "value": "1849"
                 },
                 {
                     "name": "Culture,Community and Youth",
                     "sector" : "Social",
-                    "total_expenditure": "1914"
+                    "value": "1914"
                 },
                 {
                     "name": "Social and Family Development",
                     "sector" : "Social",
-                    "total_expenditure": "4014"
+                    "value": "4014"
                 },
                 {
                     "name": "Communications and Information",
                     "sector" : "Social",
-                    "total_expenditure": "590"
+                    "value": "590"
                 },
                 {
                     "name": "Manpower (Financial Security)",
                     "sector" : "Social",
-                    "total_expenditure": "1556"
+                    "value": "1556"
                 }
             ]
           },
@@ -67,17 +67,17 @@
                 {
                     "name": "Defence",
                     "sector" : "Security",
-                    "total_expenditure": "14803"
+                    "value": "14803"
                 },
                 {
                     "name": "Home Affairs",
                     "sector" : "Security",
-                    "total_expenditure": "6544"
+                    "value": "6544"
                 },
                 {
                     "name": "Foreign Affairs",
                     "sector" : "Security",
-                    "total_expenditure": "421"
+                    "value": "421"
                 }
             ]
           },
@@ -90,22 +90,22 @@
                 {
                     "name": "Transport",
                     "sector" : "Economic",
-                    "total_expenditure": "4051"
+                    "value": "4051"
                 },
                 {
                     "name": "Trade and Industry",
                     "sector" : "Economic",
-                    "total_expenditure": "2052"
+                    "value": "2052"
                 },
                 {
                     "name": "Manpower (excluding Financial Security)",
                     "sector" : "Economic",
-                    "total_expenditure": "5519"
+                    "value": "5519"
                 },
                 {
                     "name": "Info-Communications and Media Development",
                     "sector" : "Economic",
-                    "total_expenditure": "790"
+                    "value": "790"
                 }
             ]
           },
@@ -118,22 +118,22 @@
                 {
                     "name": "Finance",
                     "sector" : "Admin",
-                    "total_expenditure": "1928"
+                    "value": "1928"
                 },
                 {
                     "name": "Law",
                     "sector" : "Admin",
-                    "total_expenditure": "261"
+                    "value": "261"
                 },
                 {
                     "name": "Organs of State",
                     "sector" : "Admin",
-                    "total_expenditure": "607"
+                    "value": "607"
                 },
                 {
                     "name": "Prime Minister's Office",
                     "sector" : "Admin",
-                    "total_expenditure": "973"
+                    "value": "973"
                 }
             ]
           }
@@ -154,42 +154,42 @@
                     {
                         "name": "Education",
                         "sector" : "Social",
-                        "total_expenditure": "530"
+                        "value": "530"
                     },
                     {
                         "name": "National Development",
                         "sector" : "Social",
-                        "total_expenditure": "1380"
+                        "value": "1380"
                     },
                     {
                         "name": "Health",
                         "sector" : "Social",
-                        "total_expenditure": "1490"
+                        "value": "1490"
                     },
                     {
                         "name": "Sustainability and the Environment",
                         "sector" : "Social",
-                        "total_expenditure": "1055"
+                        "value": "1055"
                     },
                     {
                         "name": "Culture,Community and Youth",
                         "sector" : "Social",
-                        "total_expenditure": "358"
+                        "value": "358"
                     },
                     {
                         "name": "Social and Family Development",
                         "sector" : "Social",
-                        "total_expenditure": "99"
+                        "value": "99"
                     },
                     {
                         "name": "Communications and Information",
                         "sector" : "Social",
-                        "total_expenditure": "39"
+                        "value": "39"
                     },
                     {
                         "name": "Manpower (Financial Security)",
                         "sector" : "Social",
-                        "total_expenditure": "4"
+                        "value": "4"
                     }
                 ]
               },
@@ -202,17 +202,17 @@
                     {
                         "name": "Defence",
                         "sector" : "Security",
-                        "total_expenditure": "558"
+                        "value": "558"
                     },
                     {
                         "name": "Home Affairs",
                         "sector" : "Security",
-                        "total_expenditure": "1332"
+                        "value": "1332"
                     },
                     {
                         "name": "Foreign Affairs",
                         "sector" : "Security",
-                        "total_expenditure": "13"
+                        "value": "13"
                     }
                 ]
               },
@@ -225,22 +225,22 @@
                     {
                         "name": "Transport",
                         "sector" : "Economic",
-                        "total_expenditure": "7015"
+                        "value": "7015"
                     },
                     {
                         "name": "Trade and Industry",
                         "sector" : "Economic",
-                        "total_expenditure": "5123"
+                        "value": "5123"
                     },
                     {
                         "name": "Manpower (excluding Financial Security)",
                         "sector" : "Economic",
-                        "total_expenditure": "98"
+                        "value": "98"
                     },
                     {
                         "name": "Info-Communications and Media Development",
                         "sector" : "Economic",
-                        "total_expenditure": "22"
+                        "value": "22"
                     }
                 ]
               },
@@ -253,22 +253,22 @@
                     {
                         "name": "Finance",
                         "sector" : "Admin",
-                        "total_expenditure": "140"
+                        "value": "140"
                     },
                     {
                         "name": "Law",
                         "sector" : "Admin",
-                        "total_expenditure": "220"
+                        "value": "220"
                     },
                     {
                         "name": "Organs of State",
                         "sector" : "Admin",
-                        "total_expenditure": "104"
+                        "value": "104"
                     },
                     {
                         "name": "Prime Minister's Office",
                         "sector" : "Admin",
-                        "total_expenditure": "293"
+                        "value": "293"
                     }
                 ]
               }

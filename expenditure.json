@@ -18,8 +18,16 @@
               {
                 "name": "Education",
                 "value": "13090"
+              },
+              {
+                "name": "National Development",
+                "value": "4149"
               }
             ]
+          },
+          {
+            "name": "Security and External Relations",
+            "value": "21768"
           }
         ]
         },

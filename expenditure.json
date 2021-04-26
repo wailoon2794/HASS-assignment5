@@ -1,0 +1,55 @@
+[
+    {
+      "name": "Singapore Expenditure",
+      "fill": "#64b5f6",
+      "value": "102338",
+      "children": [
+        {
+        "name": "Operating Expenditure",
+        "id": "Operating",
+        "fill": "#63c6c1",
+        "value": "82465",
+        "children": [
+          {
+            "name": "Social Development",
+            "sector": "Social",
+            "value": "44516",
+            "children": [
+              {
+                "name": "Education",
+                "value": "13090"
+              },
+              {
+                "name": "National Development",
+                "value": "4149"
+              }
+            ]
+          },
+          {
+            "name": "Security and External Relations",
+            "value": "21768"
+          }
+        ]
+        },
+        {
+          "name": "Development Expenditure",
+          "id": "Development",
+          "fill": "#adc965",
+          "value": "19873",
+          "children": [
+            {
+              "name": "Economic Development",
+              "sector": "Economic",
+              "value": "12258",
+              "children": [
+                {
+                  "name": "Transport",
+                  "value": "7015"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
